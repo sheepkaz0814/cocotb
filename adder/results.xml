@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1777608695" />
+    <testcase name="test_add" classname="test_adder" file="/Users/kazutouehara/verilog/cocotb/adder/test_adder.py" lineno="5" time="0.00017905235290527344" sim_time_ns="1.001" ratio_time="5590.543680426098" />
+  </testsuite>
+</testsuites>

@@ -1,0 +1,12 @@
+# cocotb / simulator
+sim_build/
+*.vcd
+*.fst
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
